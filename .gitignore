@@ -1,5 +1,7 @@
 *.pdf
 *.md
+!README.md
+
 genTests_p1.cpp
 labs.zip
 Midterm/
