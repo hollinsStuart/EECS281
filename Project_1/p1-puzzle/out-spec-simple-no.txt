@@ -1,0 +1,6 @@
+No solution.
+Discovered:
+@..A..b
+.a.#B##
+####...
+####.^^

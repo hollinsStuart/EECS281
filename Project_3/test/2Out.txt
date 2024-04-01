@@ -1,0 +1,44 @@
+Failed to log in mertg.
+Select a time less than three days in the future.
+User mertg logged in.
+Failed to log out mertg.
+User mertg logged in.
+Select a time less than three days in the future.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 80301402236: $0 from mertg to paoletti at 80302402231.
+Transaction executed at 80302402231: $0 from mertg to paoletti.
+Transaction placed at 80504402236: $1 from mertg to paoletti at 80505404433.
+Failed to log out mertg.
+Transaction executed at 80505404433: $1 from mertg to paoletti.
+0: mertg sent 0 dollars to paoletti at 80302402231.
+There was 1 transaction that was placed between time 80302402230 to 80302402233.
+There were 0 transactions that were placed between time 80301402200 to 80301402200.
+281Bank has collected 10 dollars in fees over 1 second.
+0: mertg sent 0 dollars to paoletti at 80302402231.
+1: mertg sent 1 dollar to paoletti at 80505404433.
+There were 2 transactions that were placed between time 80201400000 to 93001402200.
+Customer mertg account summary:
+Balance: $19989
+Total # of transactions: 2
+Incoming 0:
+Outgoing 2:
+0: mertg sent 0 dollars to paoletti at 80302402231.
+1: mertg sent 1 dollar to paoletti at 80505404433.
+Customer paoletti account summary:
+Balance: $39991
+Total # of transactions: 2
+Incoming 2:
+0: mertg sent 0 dollars to paoletti at 80302402231.
+1: mertg sent 1 dollar to paoletti at 80505404433.
+Outgoing 0:
+Customer mmdarden account summary:
+Balance: $30000
+Total # of transactions: 0
+Incoming 0:
+Outgoing 0:
+Summary of [80302000000, 80303000000):
+0: mertg sent 0 dollars to paoletti at 80302402231.
+There was a total of 1 transaction, 281Bank has collected 10 dollars in fees.
+Summary of [80302000000, 80303000000):
+0: mertg sent 0 dollars to paoletti at 80302402231.
+There was a total of 1 transaction, 281Bank has collected 10 dollars in fees.

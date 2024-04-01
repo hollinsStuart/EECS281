@@ -1,0 +1,67 @@
+User aaa logged in.
+User bbb logged in.
+Transaction placed at 10000000000: $2000 from aaa to bbb at 10000000004.
+Transaction placed at 10000000000: $2000 from aaa to bbb at 10000000004.
+Transaction executed at 10000000004: $2000 from aaa to bbb.
+Transaction executed at 10000000004: $2000 from aaa to bbb.
+Transaction placed at 19999999999: $2000 from aaa to bbb at 19999999999.
+Transaction executed at 19999999999: $2000 from aaa to bbb.
+Transaction placed at 19999999999: $2000 from aaa to bbb at 19999999999.
+Transaction executed at 19999999999: $2000 from aaa to bbb.
+Transaction placed at 40000000000: $2000 from aaa to bbb at 40000000004.
+Transaction placed at 40000000000: $2000 from aaa to bbb at 40000000004.
+Transaction executed at 40000000004: $2000 from aaa to bbb.
+Transaction executed at 40000000004: $2000 from aaa to bbb.
+Transaction placed at 49999999999: $2000 from aaa to bbb at 49999999999.
+Transaction executed at 49999999999: $2000 from aaa to bbb.
+Transaction placed at 49999999999: $2000 from bbb to aaa at 49999999999.
+Transaction executed at 49999999999: $2000 from bbb to aaa.
+Transaction placed at 49999999999: $2000 from bbb to aaa at 49999999999.
+Transaction executed at 49999999999: $2000 from bbb to aaa.
+Transaction placed at 49999999999: $2000 from aaa to bbb at 49999999999.
+Transaction executed at 49999999999: $2000 from aaa to bbb.
+Transaction placed at 50000000000: $2000 from aaa to bbb at 50000000000.
+Transaction executed at 50000000000: $2000 from aaa to bbb.
+Transaction placed at 50000000000: $2000 from aaa to bbb at 50000000001.
+Transaction placed at 50000000000: $2000 from aaa to bbb at 50000000001.
+Transaction placed at 50000000000: $2000 from aaa to bbb at 50000000000.
+Transaction executed at 50000000000: $2000 from aaa to bbb.
+Transaction executed at 50000000001: $2000 from aaa to bbb.
+Transaction executed at 50000000001: $2000 from aaa to bbb.
+281Bank has collected 180 dollars in fees over 6 years.
+281Bank has collected 120 dollars in fees over 1 year.
+281Bank has collected 60 dollars in fees over 3 years.
+Customer aaa account summary:
+Balance: $979824
+Total # of transactions: 14
+Incoming 2:
+7: bbb sent 2000 dollars to aaa at 49999999999.
+8: bbb sent 2000 dollars to aaa at 49999999999.
+Outgoing 12:
+2: aaa sent 2000 dollars to bbb at 19999999999.
+3: aaa sent 2000 dollars to bbb at 19999999999.
+4: aaa sent 2000 dollars to bbb at 40000000004.
+5: aaa sent 2000 dollars to bbb at 40000000004.
+6: aaa sent 2000 dollars to bbb at 49999999999.
+9: aaa sent 2000 dollars to bbb at 49999999999.
+10: aaa sent 2000 dollars to bbb at 50000000000.
+13: aaa sent 2000 dollars to bbb at 50000000000.
+11: aaa sent 2000 dollars to bbb at 50000000001.
+12: aaa sent 2000 dollars to bbb at 50000000001.
+Customer bbb account summary:
+Balance: $3019916
+Total # of transactions: 14
+Incoming 12:
+2: aaa sent 2000 dollars to bbb at 19999999999.
+3: aaa sent 2000 dollars to bbb at 19999999999.
+4: aaa sent 2000 dollars to bbb at 40000000004.
+5: aaa sent 2000 dollars to bbb at 40000000004.
+6: aaa sent 2000 dollars to bbb at 49999999999.
+9: aaa sent 2000 dollars to bbb at 49999999999.
+10: aaa sent 2000 dollars to bbb at 50000000000.
+13: aaa sent 2000 dollars to bbb at 50000000000.
+11: aaa sent 2000 dollars to bbb at 50000000001.
+12: aaa sent 2000 dollars to bbb at 50000000001.
+Outgoing 2:
+7: bbb sent 2000 dollars to aaa at 49999999999.
+8: bbb sent 2000 dollars to aaa at 49999999999.

@@ -1,0 +1,87 @@
+User a logged in.
+User b logged in.
+User c logged in.
+User d logged in.
+User e logged in.
+User f logged in.
+Transaction placed at 6: $100 from a to f at 6.
+Transaction executed at 6: $100 from a to f.
+Transaction placed at 6: $100 from a to a at 7.
+Transaction placed at 6: $100 from b to c at 6.
+Transaction executed at 6: $100 from b to c.
+Transaction placed at 6: $100 from b to a at 8.
+Transaction executed at 7: $100 from a to a.
+Transaction executed at 8: $100 from b to a.
+Transaction placed at 2000060: $100 from d to a at 3003300.
+Transaction placed at 2000060: $100 from f to a at 3003300.
+Transaction placed at 2000060: $100 from d to a at 3000000.
+Transaction executed at 3000000: $100 from d to a.
+Transaction executed at 3003300: $100 from d to a.
+Transaction executed at 3003300: $100 from f to a.
+Transaction placed at 100003000000: $100 from b to g at 100003000000.
+Transaction placed at 100002000060: $100 from d to g at 100003003300.
+Transaction placed at 100002000060: $100 from f to g at 100003003300.
+Transaction placed at 100002000060: $100 from d to g at 100003000000.
+Transaction executed at 100003000000: $100 from b to g.
+Transaction executed at 100003000000: $100 from d to g.
+Transaction placed at 100003000000: $100 from b to g at 100003000000.
+Transaction executed at 100003000000: $100 from b to g.
+Transaction executed at 100003003300: $100 from d to g.
+Transaction executed at 100003003300: $100 from f to g.
+Customer a account summary:
+Balance: $10270
+Total # of transactions: 7
+Incoming 5:
+1: a sent 100 dollars to a at 7.
+3: b sent 100 dollars to a at 8.
+6: d sent 100 dollars to a at 3000000.
+4: d sent 100 dollars to a at 3003300.
+5: f sent 100 dollars to a at 3003300.
+Outgoing 2:
+0: a sent 100 dollars to f at 6.
+1: a sent 100 dollars to a at 7.
+Customer g account summary:
+Balance: $1000000944
+Total # of transactions: 5
+Incoming 5:
+7: b sent 100 dollars to g at 100003000000.
+10: d sent 100 dollars to g at 100003000000.
+11: b sent 100 dollars to g at 100003000000.
+8: d sent 100 dollars to g at 100003003300.
+9: f sent 100 dollars to g at 100003003300.
+Outgoing 0:
+0: a sent 100 dollars to f at 6.
+2: b sent 100 dollars to c at 6.
+1: a sent 100 dollars to a at 7.
+3: b sent 100 dollars to a at 8.
+6: d sent 100 dollars to a at 3000000.
+4: d sent 100 dollars to a at 3003300.
+5: f sent 100 dollars to a at 3003300.
+7: b sent 100 dollars to g at 100003000000.
+10: d sent 100 dollars to g at 100003000000.
+11: b sent 100 dollars to g at 100003000000.
+8: d sent 100 dollars to g at 100003003300.
+9: f sent 100 dollars to g at 100003003300.
+There were 12 transactions that were placed between time 0 to 990003000099.
+281Bank has collected 105 dollars in fees over 99 years 3 days 99 seconds.
+7: b sent 100 dollars to g at 100003000000.
+10: d sent 100 dollars to g at 100003000000.
+11: b sent 100 dollars to g at 100003000000.
+There were 3 transactions that were placed between time 100003000000 to 100003000001.
+281Bank has collected 21 dollars in fees over 1 second.
+There were 0 transactions that were placed between time 100002000099 to 100003000000.
+281Bank has collected 0 dollars in fees over 99 hours 99 minutes 1 second.
+Summary of [3000000, 4000000):
+6: d sent 100 dollars to a at 3000000.
+4: d sent 100 dollars to a at 3003300.
+5: f sent 100 dollars to a at 3003300.
+There were a total of 3 transactions, 281Bank has collected 30 dollars in fees.
+Summary of [2000000, 3000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [3000000, 4000000):
+6: d sent 100 dollars to a at 3000000.
+4: d sent 100 dollars to a at 3003300.
+5: f sent 100 dollars to a at 3003300.
+There were a total of 3 transactions, 281Bank has collected 30 dollars in fees.
+Summary of [2000000, 3000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.

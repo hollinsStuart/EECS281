@@ -1,0 +1,6 @@
+# MarySueColeman
+quiver-capacity: 100
+random-seed: 3234
+max-rand-distance: 50
+max-rand-speed: 60
+max-rand-health: 3

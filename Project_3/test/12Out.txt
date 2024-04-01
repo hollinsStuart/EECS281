@@ -1,0 +1,52 @@
+Failed to log in mertg.
+Select a time less than three days in the future.
+User mertg logged in.
+Select a time less than three days in the future.
+Transaction placed at 80301402235: $1000 from mertg to mmdarden at 80302402239.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+User paoletti logged in.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 80301402238: $20100 from paoletti to mertg at 80302402220.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+User paoletti logged out.
+Fraudulent transaction detected, aborting request.
+Failed to log out mertg.
+Transaction executed at 80302402220: $20100 from paoletti to mertg.
+Insufficient funds to process transaction 0.
+1: paoletti sent 20100 dollars to mertg at 80302402220.
+There was 1 transaction that was placed between time 80301402236 to 90301402234.
+There were 0 transactions that were placed between time 80301402200 to 80301402200.
+281Bank has collected 201 dollars in fees over 20 months 5 days 71 hours 39 minutes 98 seconds.
+1: paoletti sent 20100 dollars to mertg at 80302402220.
+There was 1 transaction that was placed between time 80201400000 to 93001402200.
+Customer mertg account summary:
+Balance: $21200
+Total # of transactions: 1
+Incoming 1:
+1: paoletti sent 20100 dollars to mertg at 80302402220.
+Outgoing 0:
+Customer paoletti account summary:
+Balance: $399799
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+1: paoletti sent 20100 dollars to mertg at 80302402220.
+Customer mmdarden account summary:
+Balance: $0
+Total # of transactions: 0
+Incoming 0:
+Outgoing 0:
+Summary of [80302000000, 80303000000):
+1: paoletti sent 20100 dollars to mertg at 80302402220.
+There was a total of 1 transaction, 281Bank has collected 201 dollars in fees.
+Summary of [80502000000, 80503000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.

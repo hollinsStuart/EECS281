@@ -1,0 +1,8 @@
+2 4 7
+// A simple example puzzle
+// 2 colors (A, B)
+// 4x7 grid
+@..A..b
+.a.#B##
+####...
+?..B.^^

@@ -1,0 +1,32 @@
+"D:\UM\Fall 2023\EECS 281\Lab_7\cmake-build-debug\Lab_7.exe" > output.txt
+1 1 1 1
+50 100 95 88
+erase: 1
+#Elements: 3
+#Bucket size: 10
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 50       key: sam        2
+        value: 100      key: fee        1
+        value: 95       key: milo       1
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 88       key: gabe       1
+3
+0
+#Elements: 5
+#Bucket size: 10
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 0        key: sam        1
+        value: 100      key: fee        1
+        value: 95       key: milo       1
+        value: 0        key:    0
+        value: 0        key:    0
+        value: 88       key: gabe       1
+
+Process finished with exit code 0

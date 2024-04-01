@@ -1,0 +1,28 @@
+# MarySueColeman
+quiver-capacity: 100
+random-seed: 3234
+max-rand-distance: 50
+max-rand-speed: 60
+max-rand-health: 3
+---
+round: 1
+random-zombies: 10
+named-zombies: 3
+A distance: 150 speed: 10 health: 15
+B distance: 150 speed: 5 health: 15
+C distance: 150 speed: 1 health: 15
+---
+round: 4
+random-zombies: 2
+named-zombies: 2
+A distance: 2 speed: 10 health: 15
+B distance: 4 speed: 5 health: 10
+---
+round: 8
+random-zombies: 30
+named-zombies: 0
+---
+round: 10
+random-zombies: 0
+named-zombies: 1
+JamesDuderstadt distance: 200 speed: 5 health: 20

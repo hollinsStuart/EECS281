@@ -1,0 +1,24 @@
+User aaa logged in.
+User bbb logged in.
+Transaction placed at 3000: $1 from aaa to bbb at 4031.
+Transaction executed at 4031: $1 from aaa to bbb.
+Transaction placed at 10004000: $2000 from aaa to bbb at 10005000.
+Transaction executed at 10005000: $2000 from aaa to bbb.
+Transaction placed at 12000000: $2000 from bbb to aaa at 13000000.
+Transaction executed at 13000000: $2000 from bbb to aaa.
+User doNotExist does not exist.
+0: aaa sent 1 dollar to bbb at 4031.
+There was 1 transaction that was placed between time 4000 to 14000.
+There were 0 transactions that were placed between time 10003000 to 10004000.
+There were 0 transactions that were placed between time 10004000 to 10005000.
+281Bank has collected 0 dollars in fees over 10 minutes.
+281Bank has collected 0 dollars in fees over 10 minutes.
+Summary of [12000000, 13000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [13000000, 14000000):
+2: bbb sent 2000 dollars to aaa at 13000000.
+There was a total of 1 transaction, 281Bank has collected 20 dollars in fees.
+0: aaa sent 1 dollar to bbb at 4031.
+1: aaa sent 2000 dollars to bbb at 10005000.
+2: bbb sent 2000 dollars to aaa at 13000000.
+There were 3 transactions that were placed between time 4031 to 990010005000.

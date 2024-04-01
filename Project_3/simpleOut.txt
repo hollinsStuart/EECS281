@@ -1,0 +1,27 @@
+User aaa logged in.
+Failed to log in mertg.
+Failed to log in aaa.
+Failed to log in a.
+Failed to log out aaa.
+Failed to log out m.
+Users:
+	990000000000	lateS	777777	1000000450	
+	IP:	
+	990000000000	lateR	777777	1000000450	
+	IP:	
+	0	fff	666666	1000000450	
+	IP:	
+	0	ddd	444444	1000000450	
+	IP:	
+	0	ggg	777777	1000000450	
+	IP:	
+	0	eee	555555	1	
+	IP:	
+	0	ccc	333333	20000	
+	IP:	
+	0	bbb	222222	30000	
+	IP:	
+	0	aaa	111111	10	
+	IP:	231.43.171.61	
+Transactions:
+------------  start of query  ------------

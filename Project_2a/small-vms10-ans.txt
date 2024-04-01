@@ -1,0 +1,105 @@
+Round: 1
+Created: paoletti0 (distance: 26, speed: 52, health: 1)
+Created: darden1 (distance: 16, speed: 57, health: 1)
+Created: garcia2 (distance: 33, speed: 46, health: 1)
+Created: cris3 (distance: 30, speed: 4, health: 1)
+Created: bing4 (distance: 5, speed: 23, health: 1)
+Created: will5 (distance: 43, speed: 37, health: 1)
+Created: fee6 (distance: 43, speed: 43, health: 1)
+Created: noah7 (distance: 33, speed: 1, health: 1)
+Created: potatobot8 (distance: 50, speed: 13, health: 1)
+Created: paoletti9 (distance: 20, speed: 43, health: 1)
+Created: darden10 (distance: 30, speed: 15, health: 1)
+Created: garcia11 (distance: 28, speed: 13, health: 1)
+Created: cris12 (distance: 9, speed: 7, health: 1)
+Created: bing13 (distance: 18, speed: 52, health: 1)
+Created: will14 (distance: 33, speed: 2, health: 1)
+Created: fee15 (distance: 25, speed: 44, health: 1)
+Created: noah16 (distance: 28, speed: 37, health: 1)
+Created: potatobot17 (distance: 24, speed: 4, health: 1)
+Created: paoletti18 (distance: 21, speed: 42, health: 1)
+Created: darden19 (distance: 10, speed: 28, health: 1)
+Created: garcia20 (distance: 7, speed: 4, health: 1)
+Created: cris21 (distance: 9, speed: 6, health: 1)
+Created: bing22 (distance: 6, speed: 17, health: 1)
+Created: will23 (distance: 23, speed: 30, health: 1)
+Created: fee24 (distance: 46, speed: 20, health: 1)
+Created: MarkSchlissel (distance: 150, speed: 300, health: 15)
+Created: MarySueColeman (distance: 2, speed: 3, health: 6)
+Created: LeeBollinger (distance: 100, speed: 1, health: 100)
+Destroyed: bing13 (distance: 18, speed: 52, health: 0)
+Destroyed: bing22 (distance: 6, speed: 17, health: 0)
+Destroyed: bing4 (distance: 5, speed: 23, health: 0)
+Destroyed: darden1 (distance: 16, speed: 57, health: 0)
+Destroyed: darden19 (distance: 10, speed: 28, health: 0)
+Destroyed: fee15 (distance: 25, speed: 44, health: 0)
+Destroyed: garcia2 (distance: 33, speed: 46, health: 0)
+Destroyed: noah16 (distance: 28, speed: 37, health: 0)
+Destroyed: paoletti0 (distance: 26, speed: 52, health: 0)
+Destroyed: paoletti18 (distance: 21, speed: 42, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+Moved: cris3 (distance: 26, speed: 4, health: 1)
+Moved: will5 (distance: 6, speed: 37, health: 1)
+Moved: fee6 (distance: 0, speed: 43, health: 1)
+Moved: noah7 (distance: 32, speed: 1, health: 1)
+Moved: potatobot8 (distance: 37, speed: 13, health: 1)
+Moved: paoletti9 (distance: 0, speed: 43, health: 1)
+Moved: darden10 (distance: 15, speed: 15, health: 1)
+Moved: garcia11 (distance: 15, speed: 13, health: 1)
+Moved: cris12 (distance: 2, speed: 7, health: 1)
+Moved: will14 (distance: 31, speed: 2, health: 1)
+Moved: potatobot17 (distance: 20, speed: 4, health: 1)
+Moved: garcia20 (distance: 3, speed: 4, health: 1)
+Moved: cris21 (distance: 3, speed: 6, health: 1)
+Moved: will23 (distance: 0, speed: 30, health: 1)
+Moved: fee24 (distance: 26, speed: 20, health: 1)
+Moved: MarkSchlissel (distance: 0, speed: 300, health: 15)
+Moved: MarySueColeman (distance: 0, speed: 3, health: 6)
+Moved: LeeBollinger (distance: 99, speed: 1, health: 100)
+DEFEAT IN ROUND 2! fee6 ate your brains!
+Zombies still active: 18
+First zombies killed:
+bing13 1
+bing22 2
+bing4 3
+darden1 4
+darden19 5
+fee15 6
+garcia2 7
+noah16 8
+paoletti0 9
+paoletti18 10
+Last zombies killed:
+paoletti18 10
+paoletti0 9
+noah16 8
+garcia2 7
+fee15 6
+darden19 5
+darden1 4
+bing4 3
+bing22 2
+bing13 1
+Most active zombies:
+LeeBollinger 2
+MarkSchlissel 2
+MarySueColeman 2
+cris12 2
+cris21 2
+cris3 2
+darden10 2
+fee24 2
+fee6 2
+garcia11 2
+Least active zombies:
+bing13 1
+bing22 1
+bing4 1
+darden1 1
+darden19 1
+fee15 1
+garcia2 1
+noah16 1
+paoletti0 1
+paoletti18 1

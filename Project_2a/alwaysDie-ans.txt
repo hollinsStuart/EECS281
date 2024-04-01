@@ -1,0 +1,162 @@
+Round: 1
+Created: paoletti0 (distance: 21, speed: 35, health: 2)
+Created: darden1 (distance: 44, speed: 23, health: 1)
+Created: garcia2 (distance: 1, speed: 1, health: 1)
+Created: cris3 (distance: 43, speed: 16, health: 3)
+Created: bing4 (distance: 29, speed: 22, health: 1)
+Created: will5 (distance: 19, speed: 53, health: 1)
+Created: fee6 (distance: 21, speed: 60, health: 3)
+Created: noah7 (distance: 32, speed: 39, health: 3)
+Created: potatobot8 (distance: 44, speed: 25, health: 1)
+Created: paoletti9 (distance: 13, speed: 29, health: 3)
+Created: A (distance: 150, speed: 10, health: 15)
+Created: B (distance: 150, speed: 5, health: 15)
+Created: C (distance: 150, speed: 1, health: 15)
+Destroyed: will5 (distance: 19, speed: 53, health: 0)
+Destroyed: paoletti0 (distance: 21, speed: 35, health: 0)
+Destroyed: fee6 (distance: 21, speed: 60, health: 0)
+Destroyed: noah7 (distance: 32, speed: 39, health: 0)
+Destroyed: paoletti9 (distance: 13, speed: 29, health: 0)
+Destroyed: bing4 (distance: 29, speed: 22, health: 0)
+Destroyed: darden1 (distance: 44, speed: 23, health: 0)
+Destroyed: garcia2 (distance: 1, speed: 1, health: 0)
+Destroyed: potatobot8 (distance: 44, speed: 25, health: 0)
+Destroyed: cris3 (distance: 43, speed: 16, health: 0)
+Destroyed: A (distance: 150, speed: 10, health: 0)
+Destroyed: B (distance: 150, speed: 5, health: 0)
+Destroyed: C (distance: 150, speed: 1, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+At the end of round 3, the median zombie lifetime is 1
+Round: 4
+Created: darden10 (distance: 30, speed: 32, health: 1)
+Created: garcia11 (distance: 23, speed: 37, health: 1)
+Created: A (distance: 2, speed: 10, health: 15)
+Created: B (distance: 4, speed: 5, health: 10)
+Destroyed: darden10 (distance: 30, speed: 32, health: 0)
+Destroyed: garcia11 (distance: 23, speed: 37, health: 0)
+Destroyed: B (distance: 4, speed: 5, health: 0)
+Destroyed: A (distance: 2, speed: 10, health: 0)
+At the end of round 4, the median zombie lifetime is 1
+Round: 5
+At the end of round 5, the median zombie lifetime is 1
+Round: 6
+At the end of round 6, the median zombie lifetime is 1
+Round: 7
+At the end of round 7, the median zombie lifetime is 1
+Round: 8
+Created: cris12 (distance: 15, speed: 49, health: 2)
+Created: bing13 (distance: 27, speed: 42, health: 2)
+Created: will14 (distance: 24, speed: 56, health: 2)
+Created: fee15 (distance: 10, speed: 59, health: 1)
+Created: noah16 (distance: 11, speed: 15, health: 3)
+Created: potatobot17 (distance: 35, speed: 3, health: 2)
+Created: paoletti18 (distance: 30, speed: 42, health: 3)
+Created: darden19 (distance: 42, speed: 42, health: 3)
+Created: garcia20 (distance: 38, speed: 5, health: 2)
+Created: cris21 (distance: 40, speed: 1, health: 2)
+Created: bing22 (distance: 20, speed: 36, health: 2)
+Created: will23 (distance: 40, speed: 49, health: 2)
+Created: fee24 (distance: 11, speed: 19, health: 3)
+Created: noah25 (distance: 36, speed: 33, health: 1)
+Created: potatobot26 (distance: 40, speed: 46, health: 3)
+Created: paoletti27 (distance: 35, speed: 36, health: 1)
+Created: darden28 (distance: 16, speed: 4, health: 3)
+Created: garcia29 (distance: 14, speed: 45, health: 2)
+Created: cris30 (distance: 25, speed: 54, health: 2)
+Created: bing31 (distance: 42, speed: 5, health: 3)
+Created: will32 (distance: 21, speed: 25, health: 3)
+Created: fee33 (distance: 6, speed: 18, health: 1)
+Created: noah34 (distance: 15, speed: 47, health: 2)
+Created: potatobot35 (distance: 13, speed: 51, health: 3)
+Created: paoletti36 (distance: 13, speed: 58, health: 1)
+Created: darden37 (distance: 11, speed: 11, health: 3)
+Created: garcia38 (distance: 17, speed: 23, health: 3)
+Created: cris39 (distance: 14, speed: 45, health: 2)
+Created: bing40 (distance: 36, speed: 41, health: 1)
+Created: will41 (distance: 9, speed: 14, health: 1)
+Destroyed: bing40 (distance: 36, speed: 41, health: 0)
+Destroyed: fee15 (distance: 10, speed: 59, health: 0)
+Destroyed: fee33 (distance: 6, speed: 18, health: 0)
+Destroyed: paoletti27 (distance: 35, speed: 36, health: 0)
+Destroyed: paoletti36 (distance: 13, speed: 58, health: 0)
+Destroyed: will41 (distance: 9, speed: 14, health: 0)
+Destroyed: bing13 (distance: 27, speed: 42, health: 0)
+Destroyed: bing22 (distance: 20, speed: 36, health: 0)
+Destroyed: cris12 (distance: 15, speed: 49, health: 0)
+Destroyed: cris30 (distance: 25, speed: 54, health: 0)
+Destroyed: cris39 (distance: 14, speed: 45, health: 0)
+Destroyed: garcia29 (distance: 14, speed: 45, health: 0)
+Destroyed: noah34 (distance: 15, speed: 47, health: 0)
+Destroyed: will14 (distance: 24, speed: 56, health: 0)
+Destroyed: will23 (distance: 40, speed: 49, health: 0)
+Destroyed: fee24 (distance: 11, speed: 19, health: 0)
+Destroyed: garcia38 (distance: 17, speed: 23, health: 0)
+Destroyed: noah16 (distance: 11, speed: 15, health: 0)
+Destroyed: paoletti18 (distance: 30, speed: 42, health: 0)
+Destroyed: potatobot26 (distance: 40, speed: 46, health: 0)
+Destroyed: potatobot35 (distance: 13, speed: 51, health: 0)
+Destroyed: will32 (distance: 21, speed: 25, health: 0)
+Destroyed: noah25 (distance: 36, speed: 33, health: 0)
+Destroyed: darden19 (distance: 42, speed: 42, health: 0)
+Destroyed: darden37 (distance: 11, speed: 11, health: 0)
+Destroyed: darden28 (distance: 16, speed: 4, health: 0)
+Destroyed: garcia20 (distance: 38, speed: 5, health: 0)
+Destroyed: bing31 (distance: 42, speed: 5, health: 0)
+Destroyed: potatobot17 (distance: 35, speed: 3, health: 0)
+Destroyed: cris21 (distance: 40, speed: 1, health: 0)
+At the end of round 8, the median zombie lifetime is 1
+Round: 9
+At the end of round 9, the median zombie lifetime is 1
+Round: 10
+Created: JamesDuderstadt (distance: 200, speed: 5, health: 20)
+Destroyed: JamesDuderstadt (distance: 200, speed: 5, health: 0)
+At the end of round 10, the median zombie lifetime is 1
+VICTORY IN ROUND 10! JamesDuderstadt was the last zombie.
+Zombies still active: 0
+First zombies killed:
+will5 1
+paoletti0 2
+fee6 3
+noah7 4
+paoletti9 5
+bing4 6
+darden1 7
+garcia2 8
+potatobot8 9
+cris3 10
+Last zombies killed:
+JamesDuderstadt 10
+cris21 9
+potatobot17 8
+bing31 7
+garcia20 6
+darden28 5
+darden37 4
+darden19 3
+noah25 2
+will32 1
+Most active zombies:
+A 1
+A 1
+B 1
+B 1
+C 1
+JamesDuderstadt 1
+bing13 1
+bing22 1
+bing31 1
+bing4 1
+Least active zombies:
+A 1
+A 1
+B 1
+B 1
+C 1
+JamesDuderstadt 1
+bing13 1
+bing22 1
+bing31 1
+bing4 1

@@ -1,0 +1,355 @@
+Round: 1
+Created: A (distance: 150, speed: 10, health: 15)
+Created: B (distance: 150, speed: 5, health: 15)
+Created: C (distance: 150, speed: 1, health: 66)
+Created: D (distance: 150, speed: 1, health: 55)
+Created: E (distance: 150, speed: 1, health: 35)
+Created: F (distance: 150, speed: 1, health: 25)
+Round: 2
+Moved: A (distance: 140, speed: 10, health: 5)
+Moved: B (distance: 145, speed: 5, health: 15)
+Moved: C (distance: 149, speed: 1, health: 66)
+Moved: D (distance: 149, speed: 1, health: 55)
+Moved: E (distance: 149, speed: 1, health: 35)
+Moved: F (distance: 149, speed: 1, health: 25)
+Destroyed: A (distance: 140, speed: 10, health: 0)
+At the end of round 2, the median zombie lifetime is 2
+Round: 3
+Moved: B (distance: 140, speed: 5, health: 10)
+Moved: C (distance: 148, speed: 1, health: 66)
+Moved: D (distance: 148, speed: 1, health: 55)
+Moved: E (distance: 148, speed: 1, health: 35)
+Moved: F (distance: 148, speed: 1, health: 25)
+Destroyed: B (distance: 140, speed: 5, health: 0)
+At the end of round 3, the median zombie lifetime is 2
+Round: 4
+Moved: C (distance: 147, speed: 1, health: 66)
+Moved: D (distance: 147, speed: 1, health: 55)
+Moved: E (distance: 147, speed: 1, health: 35)
+Moved: F (distance: 147, speed: 1, health: 25)
+At the end of round 4, the median zombie lifetime is 2
+Round: 5
+Moved: C (distance: 146, speed: 1, health: 66)
+Moved: D (distance: 146, speed: 1, health: 55)
+Moved: E (distance: 146, speed: 1, health: 35)
+Moved: F (distance: 146, speed: 1, health: 15)
+At the end of round 5, the median zombie lifetime is 2
+Round: 6
+Moved: C (distance: 145, speed: 1, health: 66)
+Moved: D (distance: 145, speed: 1, health: 55)
+Moved: E (distance: 145, speed: 1, health: 35)
+Moved: F (distance: 145, speed: 1, health: 5)
+Destroyed: F (distance: 145, speed: 1, health: 0)
+At the end of round 6, the median zombie lifetime is 3
+Round: 7
+Moved: C (distance: 144, speed: 1, health: 66)
+Moved: D (distance: 144, speed: 1, health: 55)
+Moved: E (distance: 144, speed: 1, health: 30)
+At the end of round 7, the median zombie lifetime is 3
+Round: 8
+Moved: C (distance: 143, speed: 1, health: 66)
+Moved: D (distance: 143, speed: 1, health: 55)
+Moved: E (distance: 143, speed: 1, health: 20)
+At the end of round 8, the median zombie lifetime is 3
+Round: 9
+Moved: C (distance: 142, speed: 1, health: 66)
+Moved: D (distance: 142, speed: 1, health: 55)
+Moved: E (distance: 142, speed: 1, health: 10)
+Destroyed: E (distance: 142, speed: 1, health: 0)
+At the end of round 9, the median zombie lifetime is 4
+Round: 10
+Moved: C (distance: 141, speed: 1, health: 66)
+Moved: D (distance: 141, speed: 1, health: 55)
+At the end of round 10, the median zombie lifetime is 4
+Round: 11
+Moved: C (distance: 140, speed: 1, health: 66)
+Moved: D (distance: 140, speed: 1, health: 45)
+At the end of round 11, the median zombie lifetime is 4
+Round: 12
+Moved: C (distance: 139, speed: 1, health: 66)
+Moved: D (distance: 139, speed: 1, health: 35)
+At the end of round 12, the median zombie lifetime is 4
+Round: 13
+Moved: C (distance: 138, speed: 1, health: 66)
+Moved: D (distance: 138, speed: 1, health: 25)
+At the end of round 13, the median zombie lifetime is 4
+Round: 14
+Moved: C (distance: 137, speed: 1, health: 66)
+Moved: D (distance: 137, speed: 1, health: 15)
+At the end of round 14, the median zombie lifetime is 4
+Round: 15
+Moved: C (distance: 136, speed: 1, health: 66)
+Moved: D (distance: 136, speed: 1, health: 5)
+Destroyed: D (distance: 136, speed: 1, health: 0)
+At the end of round 15, the median zombie lifetime is 6
+Round: 16
+Moved: C (distance: 135, speed: 1, health: 61)
+At the end of round 16, the median zombie lifetime is 6
+Round: 17
+Moved: C (distance: 134, speed: 1, health: 51)
+At the end of round 17, the median zombie lifetime is 6
+Round: 18
+Moved: C (distance: 133, speed: 1, health: 41)
+At the end of round 18, the median zombie lifetime is 6
+Round: 19
+Moved: C (distance: 132, speed: 1, health: 31)
+At the end of round 19, the median zombie lifetime is 6
+Round: 20
+Moved: C (distance: 131, speed: 1, health: 21)
+At the end of round 20, the median zombie lifetime is 6
+Round: 21
+Moved: C (distance: 130, speed: 1, health: 11)
+At the end of round 21, the median zombie lifetime is 6
+Round: 22
+Moved: C (distance: 129, speed: 1, health: 1)
+Destroyed: C (distance: 129, speed: 1, health: 0)
+At the end of round 22, the median zombie lifetime is 7
+Round: 23
+At the end of round 23, the median zombie lifetime is 7
+Round: 24
+At the end of round 24, the median zombie lifetime is 7
+Round: 25
+At the end of round 25, the median zombie lifetime is 7
+Round: 26
+At the end of round 26, the median zombie lifetime is 7
+Round: 27
+At the end of round 27, the median zombie lifetime is 7
+Round: 28
+At the end of round 28, the median zombie lifetime is 7
+Round: 29
+At the end of round 29, the median zombie lifetime is 7
+Round: 30
+At the end of round 30, the median zombie lifetime is 7
+Round: 31
+At the end of round 31, the median zombie lifetime is 7
+Round: 32
+At the end of round 32, the median zombie lifetime is 7
+Round: 33
+At the end of round 33, the median zombie lifetime is 7
+Round: 34
+At the end of round 34, the median zombie lifetime is 7
+Round: 35
+At the end of round 35, the median zombie lifetime is 7
+Round: 36
+At the end of round 36, the median zombie lifetime is 7
+Round: 37
+At the end of round 37, the median zombie lifetime is 7
+Round: 38
+At the end of round 38, the median zombie lifetime is 7
+Round: 39
+At the end of round 39, the median zombie lifetime is 7
+Round: 40
+At the end of round 40, the median zombie lifetime is 7
+Round: 41
+At the end of round 41, the median zombie lifetime is 7
+Round: 42
+At the end of round 42, the median zombie lifetime is 7
+Round: 43
+At the end of round 43, the median zombie lifetime is 7
+Round: 44
+At the end of round 44, the median zombie lifetime is 7
+Round: 45
+At the end of round 45, the median zombie lifetime is 7
+Round: 46
+At the end of round 46, the median zombie lifetime is 7
+Round: 47
+At the end of round 47, the median zombie lifetime is 7
+Round: 48
+At the end of round 48, the median zombie lifetime is 7
+Round: 49
+At the end of round 49, the median zombie lifetime is 7
+Round: 50
+At the end of round 50, the median zombie lifetime is 7
+Round: 51
+At the end of round 51, the median zombie lifetime is 7
+Round: 52
+At the end of round 52, the median zombie lifetime is 7
+Round: 53
+At the end of round 53, the median zombie lifetime is 7
+Round: 54
+At the end of round 54, the median zombie lifetime is 7
+Round: 55
+At the end of round 55, the median zombie lifetime is 7
+Round: 56
+At the end of round 56, the median zombie lifetime is 7
+Round: 57
+At the end of round 57, the median zombie lifetime is 7
+Round: 58
+At the end of round 58, the median zombie lifetime is 7
+Round: 59
+At the end of round 59, the median zombie lifetime is 7
+Round: 60
+At the end of round 60, the median zombie lifetime is 7
+Round: 61
+At the end of round 61, the median zombie lifetime is 7
+Round: 62
+At the end of round 62, the median zombie lifetime is 7
+Round: 63
+At the end of round 63, the median zombie lifetime is 7
+Round: 64
+At the end of round 64, the median zombie lifetime is 7
+Round: 65
+At the end of round 65, the median zombie lifetime is 7
+Round: 66
+At the end of round 66, the median zombie lifetime is 7
+Round: 67
+At the end of round 67, the median zombie lifetime is 7
+Round: 68
+At the end of round 68, the median zombie lifetime is 7
+Round: 69
+At the end of round 69, the median zombie lifetime is 7
+Round: 70
+At the end of round 70, the median zombie lifetime is 7
+Round: 71
+At the end of round 71, the median zombie lifetime is 7
+Round: 72
+At the end of round 72, the median zombie lifetime is 7
+Round: 73
+At the end of round 73, the median zombie lifetime is 7
+Round: 74
+At the end of round 74, the median zombie lifetime is 7
+Round: 75
+At the end of round 75, the median zombie lifetime is 7
+Round: 76
+At the end of round 76, the median zombie lifetime is 7
+Round: 77
+At the end of round 77, the median zombie lifetime is 7
+Round: 78
+At the end of round 78, the median zombie lifetime is 7
+Round: 79
+At the end of round 79, the median zombie lifetime is 7
+Round: 80
+At the end of round 80, the median zombie lifetime is 7
+Round: 81
+At the end of round 81, the median zombie lifetime is 7
+Round: 82
+At the end of round 82, the median zombie lifetime is 7
+Round: 83
+At the end of round 83, the median zombie lifetime is 7
+Round: 84
+At the end of round 84, the median zombie lifetime is 7
+Round: 85
+At the end of round 85, the median zombie lifetime is 7
+Round: 86
+At the end of round 86, the median zombie lifetime is 7
+Round: 87
+At the end of round 87, the median zombie lifetime is 7
+Round: 88
+At the end of round 88, the median zombie lifetime is 7
+Round: 89
+At the end of round 89, the median zombie lifetime is 7
+Round: 90
+At the end of round 90, the median zombie lifetime is 7
+Round: 91
+At the end of round 91, the median zombie lifetime is 7
+Round: 92
+At the end of round 92, the median zombie lifetime is 7
+Round: 93
+At the end of round 93, the median zombie lifetime is 7
+Round: 94
+At the end of round 94, the median zombie lifetime is 7
+Round: 95
+At the end of round 95, the median zombie lifetime is 7
+Round: 96
+At the end of round 96, the median zombie lifetime is 7
+Round: 97
+At the end of round 97, the median zombie lifetime is 7
+Round: 98
+At the end of round 98, the median zombie lifetime is 7
+Round: 99
+At the end of round 99, the median zombie lifetime is 7
+Round: 100
+Created: JamesDuderstadt (distance: 500, speed: 1, health: 200)
+At the end of round 100, the median zombie lifetime is 7
+Round: 101
+Moved: JamesDuderstadt (distance: 499, speed: 1, health: 190)
+At the end of round 101, the median zombie lifetime is 7
+Round: 102
+Moved: JamesDuderstadt (distance: 498, speed: 1, health: 180)
+At the end of round 102, the median zombie lifetime is 7
+Round: 103
+Moved: JamesDuderstadt (distance: 497, speed: 1, health: 170)
+At the end of round 103, the median zombie lifetime is 7
+Round: 104
+Moved: JamesDuderstadt (distance: 496, speed: 1, health: 160)
+At the end of round 104, the median zombie lifetime is 7
+Round: 105
+Moved: JamesDuderstadt (distance: 495, speed: 1, health: 150)
+At the end of round 105, the median zombie lifetime is 7
+Round: 106
+Moved: JamesDuderstadt (distance: 494, speed: 1, health: 140)
+At the end of round 106, the median zombie lifetime is 7
+Round: 107
+Moved: JamesDuderstadt (distance: 493, speed: 1, health: 130)
+At the end of round 107, the median zombie lifetime is 7
+Round: 108
+Moved: JamesDuderstadt (distance: 492, speed: 1, health: 120)
+At the end of round 108, the median zombie lifetime is 7
+Round: 109
+Moved: JamesDuderstadt (distance: 491, speed: 1, health: 110)
+At the end of round 109, the median zombie lifetime is 7
+Round: 110
+Moved: JamesDuderstadt (distance: 490, speed: 1, health: 100)
+At the end of round 110, the median zombie lifetime is 7
+Round: 111
+Moved: JamesDuderstadt (distance: 489, speed: 1, health: 90)
+At the end of round 111, the median zombie lifetime is 7
+Round: 112
+Moved: JamesDuderstadt (distance: 488, speed: 1, health: 80)
+At the end of round 112, the median zombie lifetime is 7
+Round: 113
+Moved: JamesDuderstadt (distance: 487, speed: 1, health: 70)
+At the end of round 113, the median zombie lifetime is 7
+Round: 114
+Moved: JamesDuderstadt (distance: 486, speed: 1, health: 60)
+At the end of round 114, the median zombie lifetime is 7
+Round: 115
+Moved: JamesDuderstadt (distance: 485, speed: 1, health: 50)
+At the end of round 115, the median zombie lifetime is 7
+Round: 116
+Moved: JamesDuderstadt (distance: 484, speed: 1, health: 40)
+At the end of round 116, the median zombie lifetime is 7
+Round: 117
+Moved: JamesDuderstadt (distance: 483, speed: 1, health: 30)
+At the end of round 117, the median zombie lifetime is 7
+Round: 118
+Moved: JamesDuderstadt (distance: 482, speed: 1, health: 20)
+At the end of round 118, the median zombie lifetime is 7
+Round: 119
+Moved: JamesDuderstadt (distance: 481, speed: 1, health: 10)
+Destroyed: JamesDuderstadt (distance: 481, speed: 1, health: 0)
+At the end of round 119, the median zombie lifetime is 9
+VICTORY IN ROUND 119! JamesDuderstadt was the last zombie.
+Zombies still active: 0
+First zombies killed:
+A 1
+B 2
+F 3
+E 4
+D 5
+C 6
+JamesDuderstadt 7
+Last zombies killed:
+JamesDuderstadt 7
+C 6
+D 5
+E 4
+F 3
+B 2
+A 1
+Most active zombies:
+C 22
+JamesDuderstadt 20
+D 15
+E 9
+F 6
+B 3
+A 2
+Least active zombies:
+A 2
+B 3
+F 6
+E 9
+D 15
+JamesDuderstadt 20
+C 22

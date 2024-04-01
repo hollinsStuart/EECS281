@@ -1,0 +1,12 @@
+PQ tester
+
+  0) Unordered
+  1) Sorted
+  2) Binary
+  3) Pairing
+
+Select one: Testing the Pairing PQ...-----------------------------------
+Update:
+pairing 1: 500 100 51 44 26 14 8 5 3 
+pairing 2: 40 100 51 44 26 14 8 5 3 
+All tests succeeded!

@@ -1,0 +1,23 @@
+Everything below the line of dashes is a valid error message.
+If an input is valid (not one of the INV test cases) and you
+output one of these allowed error messages, the autograder
+will show you the error message, which will help you with
+debugging.  For example, you rejected a valid input, thinking
+that we forgot the -s or --stack.  If you receive that error
+message for a valid input, you know where to start debugging.
+
+Some of these may not be in the "Errors you must check for"
+section, but are still useful for debugging purposes.
+-------------------------------------------------------------
+Error: Invalid output mode
+Error: Unknown option
+Error: Can not have both stack and queue
+Error: Must have at least one of stack or queue
+Error: Invalid numColor
+Error: Invalid width
+Error: Invalid height
+Error: Puzzle must have only one start and one target
+Error: Invalid door in map
+Error: Invalid wall in map
+Error: Invalid character in map
+Error: Puzzle must have exactly one start and one target

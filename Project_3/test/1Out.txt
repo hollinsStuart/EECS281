@@ -1,0 +1,110 @@
+Failed to log in mertg.
+Select a time less than three days in the future.
+User mertg logged in.
+Select a time less than three days in the future.
+Transaction placed at 80301402235: $1000 from mertg to mmdarden at 80302402239.
+Transaction placed at 80301402236: $2000 from mertg to paoletti at 80302402232.
+Transaction placed at 80301402237: $3000 from mertg to paoletti at 80302402211.
+User paoletti logged in.
+Transaction placed at 80301402237: $3100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402238: $3100 from paoletti to mertg at 80302402220.
+Transaction placed at 80301402239: $3100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402240: $3100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402241: $3100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402242: $100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402243: $100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402244: $100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402245: $100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402246: $100 from mertg to paoletti at 80302402234.
+Transaction placed at 80301402247: $100 from mertg to paoletti at 80302402234.
+User paoletti logged out.
+Transaction placed at 80301402248: $200 from mertg to paoletti at 80302402207.
+User mertg logged out.
+Transaction executed at 80302402207: $200 from mertg to paoletti.
+Transaction executed at 80302402211: $3000 from mertg to paoletti.
+Transaction executed at 80302402220: $3100 from paoletti to mertg.
+Transaction executed at 80302402232: $2000 from mertg to paoletti.
+Transaction executed at 80302402234: $3100 from mertg to paoletti.
+Transaction executed at 80302402234: $3100 from mertg to paoletti.
+Transaction executed at 80302402234: $3100 from mertg to paoletti.
+Transaction executed at 80302402234: $3100 from mertg to paoletti.
+Transaction executed at 80302402234: $100 from mertg to paoletti.
+Transaction executed at 80302402234: $100 from mertg to paoletti.
+Transaction executed at 80302402234: $100 from mertg to paoletti.
+Transaction executed at 80302402234: $100 from mertg to paoletti.
+Transaction executed at 80302402234: $100 from mertg to paoletti.
+Transaction executed at 80302402234: $100 from mertg to paoletti.
+Transaction executed at 80302402239: $1000 from mertg to mmdarden.
+14: mertg sent 200 dollars to paoletti at 80302402207.
+2: mertg sent 3000 dollars to paoletti at 80302402211.
+4: paoletti sent 3100 dollars to mertg at 80302402220.
+1: mertg sent 2000 dollars to paoletti at 80302402232.
+3: mertg sent 3100 dollars to paoletti at 80302402234.
+5: mertg sent 3100 dollars to paoletti at 80302402234.
+6: mertg sent 3100 dollars to paoletti at 80302402234.
+7: mertg sent 3100 dollars to paoletti at 80302402234.
+8: mertg sent 100 dollars to paoletti at 80302402234.
+9: mertg sent 100 dollars to paoletti at 80302402234.
+10: mertg sent 100 dollars to paoletti at 80302402234.
+11: mertg sent 100 dollars to paoletti at 80302402234.
+12: mertg sent 100 dollars to paoletti at 80302402234.
+13: mertg sent 100 dollars to paoletti at 80302402234.
+0: mertg sent 1000 dollars to mmdarden at 80302402239.
+There were 15 transactions that were placed between time 80301402236 to 90301402234.
+There were 0 transactions that were placed between time 80301402200 to 80301402200.
+281Bank has collected 285 dollars in fees over 20 months 5 days 71 hours 39 minutes 98 seconds.
+Customer mertg account summary:
+Balance: $213711
+Total # of transactions: 15
+Incoming 1:
+4: paoletti sent 3100 dollars to mertg at 80302402220.
+Outgoing 14:
+5: mertg sent 3100 dollars to paoletti at 80302402234.
+6: mertg sent 3100 dollars to paoletti at 80302402234.
+7: mertg sent 3100 dollars to paoletti at 80302402234.
+8: mertg sent 100 dollars to paoletti at 80302402234.
+9: mertg sent 100 dollars to paoletti at 80302402234.
+10: mertg sent 100 dollars to paoletti at 80302402234.
+11: mertg sent 100 dollars to paoletti at 80302402234.
+12: mertg sent 100 dollars to paoletti at 80302402234.
+13: mertg sent 100 dollars to paoletti at 80302402234.
+0: mertg sent 1000 dollars to mmdarden at 80302402239.
+Customer paoletti account summary:
+Balance: $435009
+Total # of transactions: 14
+Incoming 13:
+3: mertg sent 3100 dollars to paoletti at 80302402234.
+5: mertg sent 3100 dollars to paoletti at 80302402234.
+6: mertg sent 3100 dollars to paoletti at 80302402234.
+7: mertg sent 3100 dollars to paoletti at 80302402234.
+8: mertg sent 100 dollars to paoletti at 80302402234.
+9: mertg sent 100 dollars to paoletti at 80302402234.
+10: mertg sent 100 dollars to paoletti at 80302402234.
+11: mertg sent 100 dollars to paoletti at 80302402234.
+12: mertg sent 100 dollars to paoletti at 80302402234.
+13: mertg sent 100 dollars to paoletti at 80302402234.
+Outgoing 1:
+4: paoletti sent 3100 dollars to mertg at 80302402220.
+Customer mmdarden account summary:
+Balance: $330995
+Total # of transactions: 1
+Incoming 1:
+0: mertg sent 1000 dollars to mmdarden at 80302402239.
+Outgoing 0:
+Summary of [80302000000, 80303000000):
+14: mertg sent 200 dollars to paoletti at 80302402207.
+2: mertg sent 3000 dollars to paoletti at 80302402211.
+4: paoletti sent 3100 dollars to mertg at 80302402220.
+1: mertg sent 2000 dollars to paoletti at 80302402232.
+3: mertg sent 3100 dollars to paoletti at 80302402234.
+5: mertg sent 3100 dollars to paoletti at 80302402234.
+6: mertg sent 3100 dollars to paoletti at 80302402234.
+7: mertg sent 3100 dollars to paoletti at 80302402234.
+8: mertg sent 100 dollars to paoletti at 80302402234.
+9: mertg sent 100 dollars to paoletti at 80302402234.
+10: mertg sent 100 dollars to paoletti at 80302402234.
+11: mertg sent 100 dollars to paoletti at 80302402234.
+12: mertg sent 100 dollars to paoletti at 80302402234.
+13: mertg sent 100 dollars to paoletti at 80302402234.
+0: mertg sent 1000 dollars to mmdarden at 80302402239.
+There were a total of 15 transactions, 281Bank has collected 285 dollars in fees.

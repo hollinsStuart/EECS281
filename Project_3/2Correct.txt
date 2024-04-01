@@ -1,0 +1,50 @@
+User aaa logged in.
+User eee logged in.
+User ggg logged in.
+Transaction placed at 4000: $200 from aaa to bbb at 4131.
+Transaction placed at 4000: $200 from ggg to eee at 4331.
+Transaction placed at 4100: $200 from eee to ggg at 4231.
+Transaction placed at 4100: $200 from ggg to eee at 4331.
+Transaction placed at 4100: $200 from eee to ggg at 4231.
+User ggg logged out.
+Transaction executed at 4131: $200 from aaa to bbb.
+Insufficient funds to process transaction 2.
+Insufficient funds to process transaction 4.
+Insufficient funds to process transaction 1.
+Transaction executed at 4331: $200 from ggg to eee.
+Transaction placed at 999999999999: $2000 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $2000 from aaa to bbb.
+Transaction placed at 999999999999: $2000 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $2000 from aaa to bbb.
+281Bank has collected 20 dollars in fees over 98 years 99 months 99 days 99 hours 70 minutes.
+281Bank has collected 20 dollars in fees over 99 years 99 months 99 days 99 hours 99 minutes 99 seconds.
+Customer ggg account summary:
+Balance: $1000000240
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+3: ggg sent 200 dollars to eee at 4331.
+Customer eee account summary:
+Balance: $201
+Total # of transactions: 1
+Incoming 1:
+3: ggg sent 200 dollars to eee at 4331.
+Outgoing 0:
+0: aaa sent 200 dollars to bbb at 4131.
+There was 1 transaction that was placed between time 4131 to 4231.
+281Bank has collected 10 dollars in fees over 1 minute.
+Summary of [0, 1000000):
+0: aaa sent 200 dollars to bbb at 4131.
+3: ggg sent 200 dollars to eee at 4331.
+There were a total of 2 transactions, 281Bank has collected 20 dollars in fees.
+Summary of [0, 1000000):
+0: aaa sent 200 dollars to bbb at 4131.
+3: ggg sent 200 dollars to eee at 4331.
+There were a total of 2 transactions, 281Bank has collected 20 dollars in fees.
+Summary of [1000000, 2000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [999999000000, 1000000000000):
+5: aaa sent 2000 dollars to bbb at 999999999999.
+6: aaa sent 2000 dollars to bbb at 999999999999.
+There were a total of 2 transactions, 281Bank has collected 30 dollars in fees.
+281Bank has collected 20 dollars in fees over 1 day.

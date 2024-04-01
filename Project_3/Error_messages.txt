@@ -1,0 +1,12 @@
+Everything below the line of dashes is a valid error message.
+If an input is valid and you output one of these allowed error
+messages, the autograder will show you the error message, which
+will help you with debugging.  For example, you rejected a
+valid input, thinking that timestamps decreased when they didn't.
+If you receive that error message for a valid input, you know
+where to start debugging.
+-------------------------------------------------------------
+Invalid decreasing timestamp in 'place' command.
+You cannot have an execution date before the current timestamp.
+Error: Reading from cin has failed
+Registration file failed to open.

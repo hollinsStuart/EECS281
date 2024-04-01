@@ -7,6 +7,7 @@ Final/
 QuickSort/
 
 cmake-build-debug/
+cmake-build-release/
 .vs/
 x64/
 .idea/
@@ -21,10 +22,13 @@ fullsubmit.tar.gz
 *_profile
 *_valgrind
 
-/zzh
-/hide
-/lqj
-/pyh
+Project_1/puzzle
+
+Lab_7/eecs281-lab07-verifier
+zzh/
+hide/
+lqj/
+pyh/
 .vscode.zip
 venv/
 zzh.zip

@@ -1,0 +1,63 @@
+User mertg logged in.
+User paoletti logged in.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Transaction placed at 80201402234: $20 from mertg to mertg at 80201402234.
+Transaction executed at 80201402234: $20 from mertg to mertg.
+Transaction placed at 80202402234: $20 from mertg to mertg at 80202402234.
+Transaction executed at 80202402234: $20 from mertg to mertg.
+Transaction placed at 80203402234: $2000 from mertg to mertg at 80203402234.
+Insufficient funds to process transaction 2.
+Transaction placed at 80203402234: $20 from mertg to mertg at 80203402234.
+Transaction executed at 80203402234: $20 from mertg to mertg.
+Transaction placed at 80203402234: $20 from mertg to mertg at 80203402234.
+Transaction executed at 80203402234: $20 from mertg to mertg.
+Transaction placed at 80203402234: $20 from mertg to mertg at 80203402234.
+Transaction executed at 80203402234: $20 from mertg to mertg.
+Transaction placed at 80203402234: $20 from mertg to mertg at 80203402234.
+Transaction executed at 80203402234: $20 from mertg to mertg.
+Transaction placed at 80203402234: $20 from mertg to mertg at 80203402234.
+Transaction executed at 80203402234: $20 from mertg to mertg.
+Transaction placed at 80203402234: $20 from mertg to mertg at 80203402234.
+User mertg logged in.
+User mertg logged out.
+Transaction executed at 80203402234: $20 from mertg to mertg.
+0: mertg sent 20 dollars to mertg at 80201402234.
+1: mertg sent 20 dollars to mertg at 80202402234.
+3: mertg sent 20 dollars to mertg at 80203402234.
+4: mertg sent 20 dollars to mertg at 80203402234.
+5: mertg sent 20 dollars to mertg at 80203402234.
+6: mertg sent 20 dollars to mertg at 80203402234.
+7: mertg sent 20 dollars to mertg at 80203402234.
+8: mertg sent 20 dollars to mertg at 80203402234.
+There were 8 transactions that were placed between time 9900 to 999999990099.
+281Bank has collected 80 dollars in fees over 99 years 99 months 99 days 98 hours 1 minute 99 seconds.
+281Bank has collected 80 dollars in fees over 99 years 99 months 98 days 1 hour 99 minutes 99 seconds.
+Summary of [80201000000, 80202000000):
+0: mertg sent 20 dollars to mertg at 80201402234.
+There was a total of 1 transaction, 281Bank has collected 10 dollars in fees.
+Customer mertg account summary:
+Balance: $20
+Total # of transactions: 16
+Incoming 8:
+0: mertg sent 20 dollars to mertg at 80201402234.
+1: mertg sent 20 dollars to mertg at 80202402234.
+3: mertg sent 20 dollars to mertg at 80203402234.
+4: mertg sent 20 dollars to mertg at 80203402234.
+5: mertg sent 20 dollars to mertg at 80203402234.
+6: mertg sent 20 dollars to mertg at 80203402234.
+7: mertg sent 20 dollars to mertg at 80203402234.
+8: mertg sent 20 dollars to mertg at 80203402234.
+Outgoing 8:
+0: mertg sent 20 dollars to mertg at 80201402234.
+1: mertg sent 20 dollars to mertg at 80202402234.
+3: mertg sent 20 dollars to mertg at 80203402234.
+4: mertg sent 20 dollars to mertg at 80203402234.
+5: mertg sent 20 dollars to mertg at 80203402234.
+6: mertg sent 20 dollars to mertg at 80203402234.
+7: mertg sent 20 dollars to mertg at 80203402234.
+8: mertg sent 20 dollars to mertg at 80203402234.
+User paletti does not exist.

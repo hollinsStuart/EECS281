@@ -1,0 +1,63 @@
+User aaa logged in.
+User aaa logged in.
+User bbb logged in.
+Transaction placed at 3000: $20000 from bbb to aaa at 3001.
+Transaction placed at 3000: $2000 from aaa to ccc at 3001.
+Failed to log in aaa.
+Select a time less than three days in the future.
+Failed to log in aaa.
+Select a time less than three days in the future.
+Transaction executed at 3001: $20000 from bbb to aaa.
+Transaction executed at 3001: $2000 from aaa to ccc.
+Transaction placed at 80301402235: $1000 from aaa to ccc at 80302402239.
+Transaction placed at 80301402236: $20 from aaa to bbb at 80302402232.
+Transaction placed at 80301402237: $3000 from aaa to bbb at 80302402211.
+Failed to log in bbb.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 80301402244: $100 from aaa to bbb at 80302402234.
+Transaction placed at 80301402245: $100 from aaa to bbb at 80302402234.
+Fraudulent transaction detected, aborting request.
+Fraudulent transaction detected, aborting request.
+Failed to log out bbb.
+Fraudulent transaction detected, aborting request.
+Failed to log out aaa.
+Transaction executed at 80302402211: $3000 from aaa to bbb.
+Transaction executed at 80302402232: $20 from aaa to bbb.
+Transaction executed at 80302402234: $100 from aaa to bbb.
+Transaction executed at 80302402234: $100 from aaa to bbb.
+Transaction executed at 80302402239: $1000 from aaa to ccc.
+Customer aaa account summary:
+Balance: $13743
+Total # of transactions: 7
+Incoming 1:
+0: bbb sent 20000 dollars to aaa at 3001.
+Outgoing 6:
+1: aaa sent 2000 dollars to ccc at 3001.
+4: aaa sent 3000 dollars to bbb at 80302402211.
+3: aaa sent 20 dollars to bbb at 80302402232.
+5: aaa sent 100 dollars to bbb at 80302402234.
+6: aaa sent 100 dollars to bbb at 80302402234.
+2: aaa sent 1000 dollars to ccc at 80302402239.
+Customer bbb account summary:
+Balance: $13000
+Total # of transactions: 5
+Incoming 4:
+4: aaa sent 3000 dollars to bbb at 80302402211.
+3: aaa sent 20 dollars to bbb at 80302402232.
+5: aaa sent 100 dollars to bbb at 80302402234.
+6: aaa sent 100 dollars to bbb at 80302402234.
+Outgoing 1:
+0: bbb sent 20000 dollars to aaa at 3001.
+Customer ccc account summary:
+Balance: $22997
+Total # of transactions: 2
+Incoming 2:
+1: aaa sent 2000 dollars to ccc at 3001.
+2: aaa sent 1000 dollars to ccc at 80302402239.
+Outgoing 0:

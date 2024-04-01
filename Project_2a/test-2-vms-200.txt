@@ -1,0 +1,32 @@
+# comments
+quiver-capacity:  70
+random-seed: 7654321
+max-rand-distance: 500
+max-rand-speed: 350
+max-rand-health: 30
+---
+round: 3
+random-zombies: 8
+named-zombies: 4
+Yan distance: 120 speed: 40 health: 12
+Tian distance: 220 speed: 65 health: 11
+Shan distance: 320 speed: 75 health: 10
+Chen distance: 420 speed: 85 health: 9
+---
+round: 11
+random-zombies: 18
+named-zombies: 3
+Zhu distance: 60 speed: 15 health: 7
+Luo distance: 260 speed: 90 health: 13
+Wu distance: 460 speed: 95 health: 14
+---
+round: 23
+random-zombies: 28
+named-zombies: 2
+Sun distance: 35 speed: 7 health: 55
+Ma distance: 435 speed: 97 health: 15
+---
+round: 24
+random-zombies: 30
+named-zombies: 1
+Zhao distance: 485 speed: 100 health: 16

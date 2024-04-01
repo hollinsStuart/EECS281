@@ -1,0 +1,11 @@
+4 4 6
+//@a#DDD
+//AA#DDD
+//bBBBBB
+//BCCCCC
+//cCDDDD
+//CCdDD?
+@#####
+b#####
+B#####
+daAcC?

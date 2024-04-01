@@ -1,0 +1,48 @@
+Failed to log in aaa.
+User aaa logged in.
+User aaa logged in.
+User aaa logged in.
+User bbb logged in.
+User ccc logged in.
+User aaa logged out.
+User fff logged in.
+User eee logged in.
+User ddd logged in.
+User lateS logged in.
+User ggg logged in.
+Select a time less than three days in the future.
+Fraudulent transaction detected, aborting request.
+Sender doNotExist does not exist.
+Recipient doNotExist does not exist.
+Transaction placed at 3000: $10 from bbb to aaa at 3001.
+Transaction executed at 3001: $10 from bbb to aaa.
+Customer aaa account summary:
+Balance: $20
+Total # of transactions: 1
+Incoming 1:
+0: bbb sent 10 dollars to aaa at 3001.
+Outgoing 0:
+Customer bbb account summary:
+Balance: $29980
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+0: bbb sent 10 dollars to aaa at 3001.
+Customer eee account summary:
+Balance: $1
+Total # of transactions: 0
+Incoming 0:
+Outgoing 0:
+Customer fff account summary:
+Balance: $1000000450
+Total # of transactions: 0
+Incoming 0:
+Outgoing 0:
+There were 0 transactions that were placed between time 80301402236 to 90301402234.
+281Bank has collected 0 dollars in fees over 20 months 5 days 71 hours 39 minutes 98 seconds.
+There were 0 transactions that were placed between time 80301402236 to 99901402234.
+281Bank has collected 0 dollars in fees over 20 months 97 days 71 hours 39 minutes 98 seconds.
+There were 0 transactions that were placed between time 80301402236 to 90399402244.
+281Bank has collected 0 dollars in fees over 10 years 20 months 97 days 71 hours 39 minutes 98 seconds.
+Summary of [91504000000, 91505000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.

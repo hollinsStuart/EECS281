@@ -1,0 +1,7 @@
+"D:\UM\Fall 2023\EECS 281\Lab_7\cmake-build-debug\Lab_7_bad.exe"
+1 1 1 1
+50 100 95 88
+1 3
+0
+
+Process finished with exit code 0

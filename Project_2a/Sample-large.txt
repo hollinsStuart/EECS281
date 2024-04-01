@@ -1,0 +1,30 @@
+# A larger test with 4000 random zombies
+quiver-capacity: 400
+random-seed: 1234
+max-rand-distance: 300
+max-rand-speed: 10
+max-rand-health: 5
+---
+round: 1
+random-zombies: 400
+named-zombies: 0
+---
+round: 2
+random-zombies: 400
+named-zombies: 0
+---
+round: 3
+random-zombies: 400
+named-zombies: 0
+---
+round: 4
+random-zombies: 400
+named-zombies: 0
+---
+round: 6
+random-zombies: 400
+named-zombies: 0
+---
+round: 10
+random-zombies: 2000
+named-zombies: 0

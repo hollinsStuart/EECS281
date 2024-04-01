@@ -1,0 +1,12 @@
+User aaa logged in.
+User aaa logged in.
+User aaa logged in.
+User aaa logged in.
+User aaa logged in.
+Failed to log in aaa.
+User ggg logged in.
+User aaa logged out.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 124373608907: $10 from ggg to aaa at 124373608907.
+Fraudulent transaction detected, aborting request.
+Transaction executed at 124373608907: $10 from ggg to aaa.

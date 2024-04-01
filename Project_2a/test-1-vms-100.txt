@@ -1,0 +1,33 @@
+# Similar to project spec, different seed makes the fight last 4 rounds
+quiver-capacity:  60
+random-seed: 1234567
+max-rand-distance: 400
+
+max-rand-speed: 300
+max-rand-health: 25
+
+---
+round: 2
+random-zombies: 10
+named-zombies: 3
+Ming distance: 100 speed: 50 health: 8
+Hao distance: 200 speed: 60 health: 7
+Zhen distance: 300 speed: 70 health: 6
+---
+round: 10
+random-zombies: 15
+
+named-zombies: 2
+Xiao distance: 50 speed: 10 health: 5
+Li distance: 250 speed: 80 health: 9
+
+---
+round: 21
+random-zombies: 20
+named-zombies: 1
+
+Wang distance: 30 speed: 5 health: 50
+---
+round: 22
+random-zombies: 25
+named-zombies: 0

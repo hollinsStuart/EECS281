@@ -1,0 +1,9 @@
+2 4 7
+// A simple example puzzle with no solution
+// The B in the bottom row has changed to #
+// 2 colors (A, B)
+// 4x7 grid
+@..A..b
+.a.#B##
+####...
+?..#.^^

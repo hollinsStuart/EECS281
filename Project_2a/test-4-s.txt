@@ -1,0 +1,42 @@
+# liulaoshihenyoupinwei
+quiver-capacity:  90
+random-seed: 1122334
+max-rand-distance: 700
+max-rand-speed: 450
+max-rand-health: 40
+---
+round: 5
+random-zombies: 15
+named-zombies: 6
+Jin distance: 160 speed: 20 health: 16
+Yin distance: 260 speed: 75 health: 15
+Yang distance: 360 speed: 85 health: 14
+Qi distance: 460 speed: 95 health: 13
+Shi distance: 560 speed: 105 health: 12
+Zi distance: 660 speed: 115 health: 11
+---
+round: 13
+random-zombies: 25
+named-zombies: 5
+Wuji distance: 80 speed: 25 health: 11
+Taiji distance: 280 speed: 110 health: 21
+Liangyi distance: 480 speed: 120 health: 22
+Sanyi distance: 580 speed: 130 health: 23
+Siwu distance: 680 speed: 140 health: 24
+
+---
+round: 27
+random-zombies: 37
+named-zombies: 4
+
+Ba distance: 45 speed: 11 health: 65
+Jiu distance: 445 speed: 141 health: 25
+Shi distance: 595 speed: 150 health: 26
+Yao distance: 695 speed: 160 health: 27
+---
+round: 28
+random-zombies: 40
+named-zombies: 3
+Shun distance: 505 speed: 145 health: 28
+Ni distance: 605 speed: 155 health: 29
+Tui distance: 705 speed: 165 health: 30

@@ -1,0 +1,23 @@
+Round: 1
+Created: Pajsn (distance: 10, speed: 1, health: 10)
+Created: d (distance: 10, speed: 1, health: 10)
+Destroyed: Pajsn (distance: 10, speed: 1, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+Moved: d (distance: 9, speed: 1, health: 10)
+Destroyed: d (distance: 9, speed: 1, health: 0)
+At the end of round 2, the median zombie lifetime is 1
+VICTORY IN ROUND 2! d was the last zombie.
+Zombies still active: 0
+First zombies killed:
+Pajsn 1
+d 2
+Last zombies killed:
+d 2
+Pajsn 1
+Most active zombies:
+d 2
+Pajsn 1
+Least active zombies:
+Pajsn 1
+d 2

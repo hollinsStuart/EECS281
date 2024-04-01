@@ -1,0 +1,36 @@
+# dingzhen
+quiver-capacity:  80
+random-seed: 9876543
+max-rand-distance: 600
+max-rand-speed: 400
+max-rand-health: 35
+---
+round: 4
+random-zombies: 12
+named-zombies: 5
+Qian distance: 140 speed: 30 health: 14
+Xing distance: 240 speed: 70 health: 13
+Jing distance: 340 speed: 80 health: 12
+Tang distance: 440 speed: 90 health: 11
+Song distance: 540 speed: 100 health: 10
+---
+round: 12
+random-zombies: 22
+named-zombies: 4
+He distance: 70 speed: 20 health: 9
+She distance: 270 speed: 100 health: 17
+Zhang distance: 470 speed: 110 health: 18
+Kong distance: 570 speed: 120 health: 19
+---
+round: 25
+random-zombies: 32
+named-zombies: 3
+Feng distance: 40 speed: 9 health: 60
+Shui distance: 440 speed: 119 health: 20
+Huo distance: 590 speed: 130 health: 21
+---
+round: 26
+random-zombies: 35
+named-zombies: 2
+Tu distance: 495 speed: 125 health: 22
+Mu distance: 595 speed: 135 health: 23

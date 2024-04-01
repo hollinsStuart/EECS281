@@ -1,0 +1,90 @@
+User aaa logged in.
+Fraudulent transaction detected, aborting request.
+User aaa logged in.
+Transaction placed at 999999999999: $3000 from aaa to bbb at 999999999999.
+Recipient mmdarden does not exist.
+Transaction executed at 999999999999: $3000 from aaa to bbb.
+Transaction placed at 999999999999: $2000 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $2000 from aaa to bbb.
+Transaction placed at 999999999999: $3000 from aaa to bbb at 999999999999.
+User bbb logged in.
+Transaction executed at 999999999999: $3000 from aaa to bbb.
+Transaction placed at 999999999999: $3100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $3100 from aaa to bbb.
+Transaction placed at 999999999999: $3100 from bbb to aaa at 999999999999.
+Transaction executed at 999999999999: $3100 from bbb to aaa.
+Transaction placed at 999999999999: $3100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $3100 from aaa to bbb.
+Transaction placed at 999999999999: $3100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $3100 from aaa to bbb.
+Transaction placed at 999999999999: $3100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $3100 from aaa to bbb.
+Transaction placed at 999999999999: $100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $100 from aaa to bbb.
+Transaction placed at 999999999999: $100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $100 from aaa to bbb.
+Transaction placed at 999999999999: $100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $100 from aaa to bbb.
+Transaction placed at 999999999999: $100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $100 from aaa to bbb.
+Transaction placed at 999999999999: $100 from aaa to bbb at 999999999999.
+Transaction executed at 999999999999: $100 from aaa to bbb.
+Transaction placed at 999999999999: $100 from aaa to bbb at 999999999999.
+User bbb logged out.
+Transaction executed at 999999999999: $100 from aaa to bbb.
+Transaction placed at 999999999999: $200 from aaa to bbb at 999999999999.
+User aaa logged out.
+Transaction executed at 999999999999: $200 from aaa to bbb.
+There were 0 transactions that were placed between time 999999999999 to 999999999999.
+There were 0 transactions that were placed between time 999999999999 to 999999999999.
+281Bank has collected 0 dollars in fees over.
+Customer aaa account summary:
+Balance: $981752
+Total # of transactions: 15
+Incoming 1:
+4: bbb sent 3100 dollars to aaa at 999999999999.
+Outgoing 14:
+5: aaa sent 3100 dollars to bbb at 999999999999.
+6: aaa sent 3100 dollars to bbb at 999999999999.
+7: aaa sent 3100 dollars to bbb at 999999999999.
+8: aaa sent 100 dollars to bbb at 999999999999.
+9: aaa sent 100 dollars to bbb at 999999999999.
+10: aaa sent 100 dollars to bbb at 999999999999.
+11: aaa sent 100 dollars to bbb at 999999999999.
+12: aaa sent 100 dollars to bbb at 999999999999.
+13: aaa sent 100 dollars to bbb at 999999999999.
+14: aaa sent 200 dollars to bbb at 999999999999.
+Customer bbb account summary:
+Balance: $3018025
+Total # of transactions: 15
+Incoming 14:
+5: aaa sent 3100 dollars to bbb at 999999999999.
+6: aaa sent 3100 dollars to bbb at 999999999999.
+7: aaa sent 3100 dollars to bbb at 999999999999.
+8: aaa sent 100 dollars to bbb at 999999999999.
+9: aaa sent 100 dollars to bbb at 999999999999.
+10: aaa sent 100 dollars to bbb at 999999999999.
+11: aaa sent 100 dollars to bbb at 999999999999.
+12: aaa sent 100 dollars to bbb at 999999999999.
+13: aaa sent 100 dollars to bbb at 999999999999.
+14: aaa sent 200 dollars to bbb at 999999999999.
+Outgoing 1:
+4: bbb sent 3100 dollars to aaa at 999999999999.
+User mmdarden does not exist.
+Summary of [999999000000, 1000000000000):
+0: aaa sent 3000 dollars to bbb at 999999999999.
+1: aaa sent 2000 dollars to bbb at 999999999999.
+2: aaa sent 3000 dollars to bbb at 999999999999.
+3: aaa sent 3100 dollars to bbb at 999999999999.
+4: bbb sent 3100 dollars to aaa at 999999999999.
+5: aaa sent 3100 dollars to bbb at 999999999999.
+6: aaa sent 3100 dollars to bbb at 999999999999.
+7: aaa sent 3100 dollars to bbb at 999999999999.
+8: aaa sent 100 dollars to bbb at 999999999999.
+9: aaa sent 100 dollars to bbb at 999999999999.
+10: aaa sent 100 dollars to bbb at 999999999999.
+11: aaa sent 100 dollars to bbb at 999999999999.
+12: aaa sent 100 dollars to bbb at 999999999999.
+13: aaa sent 100 dollars to bbb at 999999999999.
+14: aaa sent 200 dollars to bbb at 999999999999.
+There were a total of 15 transactions, 281Bank has collected 223 dollars in fees.

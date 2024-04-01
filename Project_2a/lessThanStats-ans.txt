@@ -1,0 +1,74 @@
+Round: 1
+Created: A (distance: 150, speed: 10, health: 15)
+Created: B (distance: 150, speed: 5, health: 15)
+Created: C (distance: 150, speed: 1, health: 15)
+Destroyed: A (distance: 150, speed: 10, health: 0)
+Destroyed: B (distance: 150, speed: 5, health: 0)
+Destroyed: C (distance: 150, speed: 1, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+Created: A (distance: 2, speed: 10, health: 15)
+Created: B (distance: 4, speed: 5, health: 10)
+Created: C (distance: 3, speed: 1, health: 15)
+Destroyed: B (distance: 4, speed: 5, health: 0)
+Destroyed: A (distance: 2, speed: 10, health: 0)
+Destroyed: C (distance: 3, speed: 1, health: 0)
+At the end of round 3, the median zombie lifetime is 1
+Round: 4
+At the end of round 4, the median zombie lifetime is 1
+Round: 5
+At the end of round 5, the median zombie lifetime is 1
+Round: 6
+At the end of round 6, the median zombie lifetime is 1
+Round: 7
+At the end of round 7, the median zombie lifetime is 1
+Round: 8
+Created: paoletti0 (distance: 21, speed: 35, health: 2)
+Destroyed: paoletti0 (distance: 21, speed: 35, health: 0)
+At the end of round 8, the median zombie lifetime is 1
+Round: 9
+At the end of round 9, the median zombie lifetime is 1
+Round: 10
+Created: JamesDuderstadt (distance: 200, speed: 5, health: 20)
+Destroyed: JamesDuderstadt (distance: 200, speed: 5, health: 0)
+At the end of round 10, the median zombie lifetime is 1
+VICTORY IN ROUND 10! JamesDuderstadt was the last zombie.
+Zombies still active: 0
+First zombies killed:
+A 1
+B 2
+C 3
+B 4
+A 5
+C 6
+paoletti0 7
+JamesDuderstadt 8
+Last zombies killed:
+JamesDuderstadt 8
+paoletti0 7
+C 6
+A 5
+B 4
+C 3
+B 2
+A 1
+Most active zombies:
+A 1
+A 1
+B 1
+B 1
+C 1
+C 1
+JamesDuderstadt 1
+paoletti0 1
+Least active zombies:
+A 1
+A 1
+B 1
+B 1
+C 1
+C 1
+JamesDuderstadt 1
+paoletti0 1

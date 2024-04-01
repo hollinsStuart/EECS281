@@ -1,0 +1,160 @@
+Round: 1
+Created: A (distance: 150, speed: 10, health: 10)
+Created: B (distance: 150, speed: 5, health: 14)
+Created: C (distance: 150, speed: 1, health: 5)
+Round: 2
+Moved: A (distance: 140, speed: 10, health: 9)
+Moved: B (distance: 145, speed: 5, health: 14)
+Moved: C (distance: 149, speed: 1, health: 5)
+Round: 3
+Moved: A (distance: 130, speed: 10, health: 8)
+Moved: B (distance: 140, speed: 5, health: 14)
+Moved: C (distance: 148, speed: 1, health: 5)
+Round: 4
+Moved: A (distance: 120, speed: 10, health: 7)
+Moved: B (distance: 135, speed: 5, health: 14)
+Moved: C (distance: 147, speed: 1, health: 5)
+Round: 5
+Moved: A (distance: 110, speed: 10, health: 6)
+Moved: B (distance: 130, speed: 5, health: 14)
+Moved: C (distance: 146, speed: 1, health: 5)
+Round: 6
+Moved: A (distance: 100, speed: 10, health: 5)
+Moved: B (distance: 125, speed: 5, health: 14)
+Moved: C (distance: 145, speed: 1, health: 5)
+Round: 7
+Moved: A (distance: 90, speed: 10, health: 4)
+Moved: B (distance: 120, speed: 5, health: 14)
+Moved: C (distance: 144, speed: 1, health: 5)
+Round: 8
+Moved: A (distance: 80, speed: 10, health: 3)
+Moved: B (distance: 115, speed: 5, health: 14)
+Moved: C (distance: 143, speed: 1, health: 5)
+Round: 9
+Moved: A (distance: 70, speed: 10, health: 2)
+Moved: B (distance: 110, speed: 5, health: 14)
+Moved: C (distance: 142, speed: 1, health: 5)
+Round: 10
+Moved: A (distance: 60, speed: 10, health: 1)
+Moved: B (distance: 105, speed: 5, health: 14)
+Moved: C (distance: 141, speed: 1, health: 5)
+Destroyed: A (distance: 60, speed: 10, health: 0)
+At the end of round 10, the median zombie lifetime is 10
+Round: 11
+Moved: B (distance: 100, speed: 5, health: 14)
+Moved: C (distance: 140, speed: 1, health: 5)
+Created: JamesDuderstadt (distance: 200, speed: 5, health: 2)
+At the end of round 11, the median zombie lifetime is 10
+Round: 12
+Moved: B (distance: 95, speed: 5, health: 13)
+Moved: C (distance: 139, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 195, speed: 5, health: 2)
+At the end of round 12, the median zombie lifetime is 10
+Round: 13
+Moved: B (distance: 90, speed: 5, health: 12)
+Moved: C (distance: 138, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 190, speed: 5, health: 2)
+At the end of round 13, the median zombie lifetime is 10
+Round: 14
+Moved: B (distance: 85, speed: 5, health: 11)
+Moved: C (distance: 137, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 185, speed: 5, health: 2)
+At the end of round 14, the median zombie lifetime is 10
+Round: 15
+Moved: B (distance: 80, speed: 5, health: 10)
+Moved: C (distance: 136, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 180, speed: 5, health: 2)
+At the end of round 15, the median zombie lifetime is 10
+Round: 16
+Moved: B (distance: 75, speed: 5, health: 9)
+Moved: C (distance: 135, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 175, speed: 5, health: 2)
+At the end of round 16, the median zombie lifetime is 10
+Round: 17
+Moved: B (distance: 70, speed: 5, health: 8)
+Moved: C (distance: 134, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 170, speed: 5, health: 2)
+At the end of round 17, the median zombie lifetime is 10
+Round: 18
+Moved: B (distance: 65, speed: 5, health: 7)
+Moved: C (distance: 133, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 165, speed: 5, health: 2)
+At the end of round 18, the median zombie lifetime is 10
+Round: 19
+Moved: B (distance: 60, speed: 5, health: 6)
+Moved: C (distance: 132, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 160, speed: 5, health: 2)
+At the end of round 19, the median zombie lifetime is 10
+Round: 20
+Moved: B (distance: 55, speed: 5, health: 5)
+Moved: C (distance: 131, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 155, speed: 5, health: 2)
+At the end of round 20, the median zombie lifetime is 10
+Round: 21
+Moved: B (distance: 50, speed: 5, health: 4)
+Moved: C (distance: 130, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 150, speed: 5, health: 2)
+At the end of round 21, the median zombie lifetime is 10
+Round: 22
+Moved: B (distance: 45, speed: 5, health: 3)
+Moved: C (distance: 129, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 145, speed: 5, health: 2)
+At the end of round 22, the median zombie lifetime is 10
+Round: 23
+Moved: B (distance: 40, speed: 5, health: 2)
+Moved: C (distance: 128, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 140, speed: 5, health: 2)
+At the end of round 23, the median zombie lifetime is 10
+Round: 24
+Moved: B (distance: 35, speed: 5, health: 1)
+Moved: C (distance: 127, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 135, speed: 5, health: 2)
+Destroyed: B (distance: 35, speed: 5, health: 0)
+At the end of round 24, the median zombie lifetime is 17
+Round: 25
+Moved: C (distance: 126, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 130, speed: 5, health: 2)
+At the end of round 25, the median zombie lifetime is 17
+Round: 26
+Moved: C (distance: 125, speed: 1, health: 5)
+Moved: JamesDuderstadt (distance: 125, speed: 5, health: 1)
+Destroyed: JamesDuderstadt (distance: 125, speed: 5, health: 0)
+At the end of round 26, the median zombie lifetime is 16
+Round: 27
+Moved: C (distance: 124, speed: 1, health: 5)
+At the end of round 27, the median zombie lifetime is 16
+Round: 28
+Moved: C (distance: 123, speed: 1, health: 4)
+At the end of round 28, the median zombie lifetime is 16
+Round: 29
+Moved: C (distance: 122, speed: 1, health: 3)
+At the end of round 29, the median zombie lifetime is 16
+Round: 30
+Moved: C (distance: 121, speed: 1, health: 2)
+At the end of round 30, the median zombie lifetime is 16
+Round: 31
+Moved: C (distance: 120, speed: 1, health: 1)
+Destroyed: C (distance: 120, speed: 1, health: 0)
+At the end of round 31, the median zombie lifetime is 20
+VICTORY IN ROUND 31! C was the last zombie.
+Zombies still active: 0
+First zombies killed:
+A 1
+B 2
+JamesDuderstadt 3
+C 4
+Last zombies killed:
+C 4
+JamesDuderstadt 3
+B 2
+A 1
+Most active zombies:
+C 31
+B 24
+JamesDuderstadt 16
+A 10
+Least active zombies:
+A 10
+JamesDuderstadt 16
+B 24
+C 31

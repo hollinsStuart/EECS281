@@ -1,0 +1,12 @@
+# Similar to project spec, different seed makes the fight last 4 rounds
+quiver-capacity: 10
+random-seed: 1234
+max-rand-distance: 50
+max-rand-speed: 60
+max-rand-health: 1
+---
+round: 1
+random-zombies: 0
+named-zombies: 2
+Pajsn distance: 10 speed: 1 health: 10
+d distance: 10 speed: 1 health: 10

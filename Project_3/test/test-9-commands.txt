@@ -1,0 +1,20 @@
+#This is the sample commands file, showing the format of each command.
+#You can put comments here in the operations section.
+login mertg 080400 231.43.171.61
+login mertg 080499 231.43.171.63
+out mertg 231.43.171.63
+login mertg 080499 231.43.171.61
+place 08:00:04:40:22:36 231.43.171.61 mertg paoletti 1 08:01:01:40:22:34 o
+place 08:01:07:94:92:00 231.43.171.61 mertg paoletti 0 08:01:07:94:92:09 s
+out mertg 231.43.171.63
+# The operations section ends with $$$, followed by the queries (if any).
+$$$
+l 08:03:01:40:22:36 09:03:01:40:22:34
+l 08:03:01:40:22:00 08:03:01:40:22:00
+r 08:03:01:40:22:36 08:23:07:11:62:34
+l 08:02:01:40:00:00 09:30:01:40:22:00
+h mertg
+h paoletti
+h mmdarden
+s 08:03:02:40:22:39
+s 08:05:02:40:22:39

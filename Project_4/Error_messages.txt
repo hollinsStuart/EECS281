@@ -1,0 +1,4 @@
+Invalid command line option
+Invalid mode
+No mode specified
+Cannot construct MST

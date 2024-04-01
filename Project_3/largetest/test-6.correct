@@ -1,0 +1,175 @@
+Failed to log in c.
+User c logged in.
+User c logged in.
+Failed to log in d.
+At the time of execution, sender and/or recipient have not registered.
+Failed to log out c.
+User c logged out.
+Fraudulent transaction detected, aborting request.
+Select a time less than three days in the future.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $867 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50000000000: $123 from c to a at 50002010000.
+Transaction placed at 50002000000: $100978 from c to b at 50004000000.
+User c logged out.
+Failed to log out d.
+Sender c is not logged in.
+User b logged in.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $867 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction executed at 50002010000: $123 from c to a.
+Transaction placed at 50003000000: $123 from b to a at 50004001000.
+Transaction executed at 50004000000: $100978 from c to b.
+Transaction executed at 50004001000: $123 from b to a.
+Transaction placed at 100000000000: $4565 from b to c at 100001000000.
+Transaction executed at 100001000000: $4565 from b to c.
+Customer a account summary:
+Balance: $14504
+Total # of transactions: 34
+Incoming 34:
+24: c sent 123 dollars to a at 50002010000.
+25: c sent 123 dollars to a at 50002010000.
+26: c sent 123 dollars to a at 50002010000.
+27: c sent 123 dollars to a at 50002010000.
+28: c sent 123 dollars to a at 50002010000.
+29: c sent 123 dollars to a at 50002010000.
+30: c sent 123 dollars to a at 50002010000.
+31: c sent 123 dollars to a at 50002010000.
+32: c sent 123 dollars to a at 50002010000.
+34: b sent 123 dollars to a at 50004001000.
+Outgoing 0:
+0: c sent 867 dollars to a at 50002010000.
+1: c sent 867 dollars to a at 50002010000.
+2: c sent 867 dollars to a at 50002010000.
+3: c sent 867 dollars to a at 50002010000.
+4: c sent 867 dollars to a at 50002010000.
+5: c sent 867 dollars to a at 50002010000.
+6: c sent 867 dollars to a at 50002010000.
+7: c sent 867 dollars to a at 50002010000.
+8: c sent 867 dollars to a at 50002010000.
+9: c sent 867 dollars to a at 50002010000.
+10: c sent 867 dollars to a at 50002010000.
+11: c sent 867 dollars to a at 50002010000.
+12: c sent 867 dollars to a at 50002010000.
+13: c sent 867 dollars to a at 50002010000.
+14: c sent 123 dollars to a at 50002010000.
+15: c sent 123 dollars to a at 50002010000.
+16: c sent 123 dollars to a at 50002010000.
+17: c sent 123 dollars to a at 50002010000.
+18: c sent 123 dollars to a at 50002010000.
+19: c sent 123 dollars to a at 50002010000.
+20: c sent 123 dollars to a at 50002010000.
+21: c sent 123 dollars to a at 50002010000.
+22: c sent 123 dollars to a at 50002010000.
+23: c sent 123 dollars to a at 50002010000.
+24: c sent 123 dollars to a at 50002010000.
+25: c sent 123 dollars to a at 50002010000.
+26: c sent 123 dollars to a at 50002010000.
+27: c sent 123 dollars to a at 50002010000.
+28: c sent 123 dollars to a at 50002010000.
+29: c sent 123 dollars to a at 50002010000.
+30: c sent 123 dollars to a at 50002010000.
+31: c sent 123 dollars to a at 50002010000.
+32: c sent 123 dollars to a at 50002010000.
+There were 33 transactions that were placed between time 20000000000 to 50002010001.
+33: c sent 100978 dollars to b at 50004000000.
+There was 1 transaction that was placed between time 50002010001 to 50004001000.
+281Bank has collected 0 dollars in fees over 2 days 1 hour.
+Summary of [50002000000, 50003000000):
+0: c sent 867 dollars to a at 50002010000.
+1: c sent 867 dollars to a at 50002010000.
+2: c sent 867 dollars to a at 50002010000.
+3: c sent 867 dollars to a at 50002010000.
+4: c sent 867 dollars to a at 50002010000.
+5: c sent 867 dollars to a at 50002010000.
+6: c sent 867 dollars to a at 50002010000.
+7: c sent 867 dollars to a at 50002010000.
+8: c sent 867 dollars to a at 50002010000.
+9: c sent 867 dollars to a at 50002010000.
+10: c sent 867 dollars to a at 50002010000.
+11: c sent 867 dollars to a at 50002010000.
+12: c sent 867 dollars to a at 50002010000.
+13: c sent 867 dollars to a at 50002010000.
+14: c sent 123 dollars to a at 50002010000.
+15: c sent 123 dollars to a at 50002010000.
+16: c sent 123 dollars to a at 50002010000.
+17: c sent 123 dollars to a at 50002010000.
+18: c sent 123 dollars to a at 50002010000.
+19: c sent 123 dollars to a at 50002010000.
+20: c sent 123 dollars to a at 50002010000.
+21: c sent 123 dollars to a at 50002010000.
+22: c sent 123 dollars to a at 50002010000.
+23: c sent 123 dollars to a at 50002010000.
+24: c sent 123 dollars to a at 50002010000.
+25: c sent 123 dollars to a at 50002010000.
+26: c sent 123 dollars to a at 50002010000.
+27: c sent 123 dollars to a at 50002010000.
+28: c sent 123 dollars to a at 50002010000.
+29: c sent 123 dollars to a at 50002010000.
+30: c sent 123 dollars to a at 50002010000.
+31: c sent 123 dollars to a at 50002010000.
+32: c sent 123 dollars to a at 50002010000.
+There were a total of 33 transactions, 281Bank has collected 330 dollars in fees.
+Summary of [100001000000, 100002000000):
+35: b sent 4565 dollars to c at 100001000000.
+There was a total of 1 transaction, 281Bank has collected 33 dollars in fees.

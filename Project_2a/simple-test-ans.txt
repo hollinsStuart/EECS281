@@ -1,0 +1,36 @@
+Round: 1
+Created: MarkSchlissel (distance: 150, speed: 300, health: 15)
+Created: MarySueColeman (distance: 2, speed: 3, health: 6)
+Created: LeeBollinger (distance: 100, speed: 1, health: 100)
+Destroyed: MarySueColeman (distance: 2, speed: 3, health: 0)
+Destroyed: MarkSchlissel (distance: 150, speed: 300, health: 0)
+Destroyed: LeeBollinger (distance: 100, speed: 1, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+Created: JamesDuderstadt (distance: 20, speed: 10, health: 20)
+Destroyed: JamesDuderstadt (distance: 20, speed: 10, health: 0)
+At the end of round 3, the median zombie lifetime is 1
+VICTORY IN ROUND 3! JamesDuderstadt was the last zombie.
+Zombies still active: 0
+First zombies killed:
+MarySueColeman 1
+MarkSchlissel 2
+LeeBollinger 3
+JamesDuderstadt 4
+Last zombies killed:
+JamesDuderstadt 4
+LeeBollinger 3
+MarkSchlissel 2
+MarySueColeman 1
+Most active zombies:
+JamesDuderstadt 1
+LeeBollinger 1
+MarkSchlissel 1
+MarySueColeman 1
+Least active zombies:
+JamesDuderstadt 1
+LeeBollinger 1
+MarkSchlissel 1
+MarySueColeman 1
